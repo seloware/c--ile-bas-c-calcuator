@@ -1,0 +1,15 @@
+C:\Users\casper\source\repos\hesap makinesi form ile\hesap makinesi form ile\bin\Debug\hesap makinesi form ile.exe.config
+C:\Users\casper\source\repos\hesap makinesi form ile\hesap makinesi form ile\bin\Debug\hesap makinesi form ile.exe
+C:\Users\casper\source\repos\hesap makinesi form ile\hesap makinesi form ile\bin\Debug\hesap makinesi form ile.pdb
+C:\Users\casper\source\repos\hesap makinesi form ile\hesap makinesi form ile\obj\Debug\hesap makinesi form ile.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\hesap makinesi form ile\hesap makinesi form ile\obj\Debug\hesap makinesi form ile.csproj.SuggestedBindingRedirects.cache
+C:\Users\casper\source\repos\hesap makinesi form ile\hesap makinesi form ile\obj\Debug\hesap_makinesi_form_ile.Form1.resources
+C:\Users\casper\source\repos\hesap makinesi form ile\hesap makinesi form ile\obj\Debug\hesap_makinesi_form_ile.Properties.Resources.resources
+C:\Users\casper\source\repos\hesap makinesi form ile\hesap makinesi form ile\obj\Debug\hesap makinesi form ile.csproj.GenerateResource.cache
+C:\Users\casper\source\repos\hesap makinesi form ile\hesap makinesi form ile\obj\Debug\hesap makinesi form ile.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\hesap makinesi form ile\hesap makinesi form ile\obj\Debug\hesap makinesi form ile.exe
+C:\Users\casper\source\repos\hesap makinesi form ile\hesap makinesi form ile\obj\Debug\hesap makinesi form ile.pdb
+C:\Users\casper\source\repos\hesap makinesi form ile\hesap makinesi form ile\bin\Debug\hesap makinesi form ile.exe.manifest
+C:\Users\casper\source\repos\hesap makinesi form ile\hesap makinesi form ile\bin\Debug\hesap makinesi form ile.application
+C:\Users\casper\source\repos\hesap makinesi form ile\hesap makinesi form ile\obj\Debug\hesap makinesi form ile.exe.manifest
+C:\Users\casper\source\repos\hesap makinesi form ile\hesap makinesi form ile\obj\Debug\hesap makinesi form ile.application
