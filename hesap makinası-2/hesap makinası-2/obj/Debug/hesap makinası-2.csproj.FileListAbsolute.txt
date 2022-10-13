@@ -1,0 +1,11 @@
+C:\Users\casper\source\repos\hesap makinası-2\hesap makinası-2\bin\Debug\hesap makinası-2.exe.config
+C:\Users\casper\source\repos\hesap makinası-2\hesap makinası-2\bin\Debug\hesap makinası-2.exe
+C:\Users\casper\source\repos\hesap makinası-2\hesap makinası-2\bin\Debug\hesap makinası-2.pdb
+C:\Users\casper\source\repos\hesap makinası-2\hesap makinası-2\obj\Debug\hesap makinası-2.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\hesap makinası-2\hesap makinası-2\obj\Debug\hesap makinası-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\casper\source\repos\hesap makinası-2\hesap makinası-2\obj\Debug\hesap_makinası_2.Form1.resources
+C:\Users\casper\source\repos\hesap makinası-2\hesap makinası-2\obj\Debug\hesap_makinası_2.Properties.Resources.resources
+C:\Users\casper\source\repos\hesap makinası-2\hesap makinası-2\obj\Debug\hesap makinası-2.csproj.GenerateResource.cache
+C:\Users\casper\source\repos\hesap makinası-2\hesap makinası-2\obj\Debug\hesap makinası-2.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\hesap makinası-2\hesap makinası-2\obj\Debug\hesap makinası-2.exe
+C:\Users\casper\source\repos\hesap makinası-2\hesap makinası-2\obj\Debug\hesap makinası-2.pdb
